@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body {
+   text-align: center;
+   align-content:center;
+}
+
+.options {
+    margin: 10px;
+}
+ .game {
+     align-content: center;
+ }
